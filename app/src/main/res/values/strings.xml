@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HechosCuriosos2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="texto_hecho_curiosos">Final Fantasy fue llamado asi porque se hizo con los últimos presupuestos de la compañía…</string>
+    <string name="texto_boton">Ver otro hecho curiosos</string>
+    <string name="texto_sabias">sabias que</string>
+
+</resources>
